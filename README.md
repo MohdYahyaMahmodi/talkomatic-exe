@@ -1,7 +1,7 @@
 # Talkomatic Windows App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/AY7Bk6zgze)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/8YpWqvxgdX)
 
 Talkomatic Windows App is a desktop application that brings the [Talkomatic](https://talkomatic.co) experience to your Windows PC. It provides a seamless, native-like interface for accessing Talkomatic services.
 
